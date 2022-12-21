@@ -1,1 +1,1 @@
-# CBM2-jupyter-now
+# CBM2
